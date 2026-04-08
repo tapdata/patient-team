@@ -700,6 +700,7 @@
     "prefix" : "patient",
     "readConcern" : "",
     "readPreference" : "",
-    "tableName" : "MDM_cpi_patient"
+    "tableName" : "MDM_cpi_patient",
+    "user_id" : "69c64490b9dbbccec453fb54"
   }
 } ]
