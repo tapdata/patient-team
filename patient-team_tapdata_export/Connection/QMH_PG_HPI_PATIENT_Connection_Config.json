@@ -277,6 +277,6 @@
     "table_filter" : "cpi_patient,cpi_patient_hospital_data",
     "testCount" : 0,
     "timeDifference" : 0,
-    "userId" : "69c64490b9dbbccec453fb54"
+    "user_id" : "69c64490b9dbbccec453fb54"
   }
 } ]
