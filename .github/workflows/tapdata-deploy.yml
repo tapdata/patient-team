@@ -28,4 +28,5 @@ jobs:
       caller_sha: ${{ github.sha }}
       caller_event: ${{ github.event_name }}
       caller_ref: ${{ github.ref }}
+      worker_repo: tapdata/ha-cicd-worker
     secrets: inherit
