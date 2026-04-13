@@ -42,4 +42,19 @@
     "user_id" : "62bc5008d4958d013d97c7a6",
     "value" : "dmp merge mdm"
   }
+}, {
+  "collectionName" : "MetadataDefinition",
+  "json" : {
+    "apiCount" : 0,
+    "createTime" : 1774945302467,
+    "createUser" : "patient-sam",
+    "desc" : "",
+    "id" : "69cb8416bda877370a5ef436",
+    "item_type" : [ "app" ],
+    "lastUpdBy" : "69c64490b9dbbccec453fb54",
+    "objCount" : 0,
+    "publishedApiCount" : 0,
+    "user_id" : "69c64490b9dbbccec453fb54",
+    "value" : "patient"
+  }
 } ]

@@ -6,7 +6,7 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/tapdata/patient-team.git"
     },
-    "id" : "69dcc1a12c91b19b32604195",
+    "id" : "69dccd252c91b19b32604197",
     "name" : "patient-team",
     "resetTaskList" : [ ],
     "resourceItemList" : [ {
@@ -29,6 +29,10 @@
       "id" : "69ca2af5d8de1e64a964038a",
       "name" : "MDM_cpi_patient",
       "type" : "SYNC_TASK"
+    }, {
+      "id" : "69dcbdc32c91b19b3260418d",
+      "name" : "patient_v1",
+      "type" : "MODULE"
     } ],
     "user_id" : "69c64490b9dbbccec453fb54"
   }
